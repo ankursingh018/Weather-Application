@@ -33,9 +33,9 @@ WeatherNow is a simple, responsive web application that allows users to search f
 ├── app.js # Core logic and API fetching
 
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Fork this repo, make changes, and open a pull request.
 
-📄 License
+## 📄 License
 This project is open source and available under the MIT License.
 
